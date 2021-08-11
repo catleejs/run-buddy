@@ -307,3 +307,8 @@
   margin: 15px;
 }
 /* reach out style end */
+/* media queries */
+
+@media screen and (max-width: 980px) {
+  
+} 
